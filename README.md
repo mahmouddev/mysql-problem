@@ -25,4 +25,6 @@
    - Create a reports tables to store pre-aggregated sales data ti use it as computed data.
 
 ### Solution 
-By using pre-computed data, you balance query performance with update complexity, which is essential for handling high volumes of data efficiently.
+   - By using pre-computed data, you balance query performance with update complexity, which is essential for handling high volumes of data efficiently.
+   - you can run batch script with any server autmation stratigy like corn for Linux or Task Scheduler for windows 
+
